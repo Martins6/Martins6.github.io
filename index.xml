@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Adriel's Blog</title>
+    <link>https://martins6.github.io/blog/</link>
+    <atom:link href="https://martins6.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Adriel's Blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>sex, 13 dez 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Forest Fires in Brazil</title>
+      <dc:creator>Adriel Martins</dc:creator>
+      <link>https://martins6.github.io/blog/posts</link>
+      <description>If we understand better the frequency of the fires, we can deal better with them.</description>
+      <guid>https://martins6.github.io/blog/posts</guid>
+      <pubDate>sex, 13 dez 2019 00:00:00 +0000</pubDate>
+      <media:content url="https://martins6.github.io/blog/posts/ForestFiresBrazil_files/figure-html5/pressure-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to Adriel's Blog</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://martins6.github.io/blog/posts/welcome</link>
+      <description>Welcome to our new blog, Adriel's Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://martins6.github.io/blog/posts/welcome</guid>
+      <pubDate>qui, 12 dez 2019 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

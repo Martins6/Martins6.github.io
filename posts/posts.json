@@ -1,0 +1,34 @@
+[
+  {
+    "path": "posts/",
+    "title": "Forest Fires in Brazil",
+    "description": "If we understand better the frequency of the fires, we can deal better with them.",
+    "author": [
+      {
+        "name": "Adriel Martins",
+        "url": "https://martins6.github.io/blog/about.html"
+      }
+    ],
+    "date": "2019-12-13",
+    "categories": [],
+    "preview": "posts/ForestFiresBrazil_files/figure-html5/pressure-1.png",
+    "last_modified": "2019-12-13T14:21:13-03:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Adriel's Blog",
+    "description": "Welcome to our new blog, Adriel's Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-12-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-12T12:08:17-03:00"
+  }
+]
