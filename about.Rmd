@@ -1,0 +1,16 @@
+---
+title: "Stuff about the author and the blog"
+description: |
+  For those that are interested.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Hello, welcome to my data science blog! The main focus of this blog is to share some memorable works on such a beautiful field from projects to techniques, and beyond. Although it is mainly statistics, we may explore other topics.
+
+I'm a B.Sc. in Statistics from the Universidade Federal de Pernambuco (UFPE), Brazil. I'm currently passionated about: Deep Learning, NLP, Time-Series and Spatial Statistics. You can contact me at my [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
+ or send an e-mail at: _am.adriel.martins@gmail.com_
+ 
+I'm currently working as Data Scientist at BTG Pactual.

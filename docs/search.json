@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Stuff about the author and the blog",
+      "description": "For those that are interested.",
+      "author": [],
+      "contents": "\nHello, welcome to my data science blog! The main focus of this blog is to share some memorable works on such a beautiful field from projects to techniques, and beyond. Although it is mainly statistics, we may explore other topics.\nI’m a B.Sc. in Statistics from the Universidade Federal de Pernambuco (UFPE), Brazil. I’m currently passionated about: Deep Learning, NLP, Time-Series and Spatial Statistics. You can contact me at my LinkedIn or send an e-mail at: am.adriel.martins@gmail.com\nI’m currently working as Data Scientist at BTG Pactual.\n\n\n\n",
+      "last_modified": "2022-01-04T07:51:37-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Adriel's Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-01-04T07:51:38-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

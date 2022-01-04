@@ -1,0 +1,13 @@
+name: "DistillBLOG"
+title: "Adriel's Blog"
+description: |
+  Adriel's Blog
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
+base_url: https://martins6.github.io
