@@ -1,0 +1,15 @@
+[project]
+name = "martins6-github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ghp-import>=2.1.0",
+    "markdown>=3.7",
+    "pelican>=4.10.2",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
